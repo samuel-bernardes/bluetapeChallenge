@@ -36,4 +36,4 @@ __Github__: https://github.com/samuel-bernardes
 
 ## Considerações finais
 
-Por fim gostaria de agradecer a oportunidade de participar desse desafio, e a viabilidade de apreender um pouco mais sobre novas tecnologias e padrões de projeto. Obrigado e espero poder continuar entregando, e contribuindo com a Bluetape.
+Por fim gostaria de agradecer a oportunidade de participar desse desafio, e a viabilidade de apreender um pouco mais sobre novas tecnologias e padrões de projeto. 
